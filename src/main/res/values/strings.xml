@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">projeto-ranoi</string>
+    <string name="app_name">Olá Mundo</string>
+    <string name="nome">Nome</string>
+    <string name="ok">OK</string>
 </resources>
